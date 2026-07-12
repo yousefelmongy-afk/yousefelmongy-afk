@@ -251,10 +251,89 @@ class YousefElmongy:
 # 📊 GitHub Statistics
 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousefelmongy-afk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefelmongy-afk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=yousefelmongy-afk&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yousefelmongy-afk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefelmongy-afk&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yousefelmongy-afk&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousefelmongy-afk&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yousefelmongy-afk/yousefelmongy-afk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/University%20of%20Michigan-Applied%20Machine%20Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/University%20of%20Minnesota-Software%20Testing-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Amazon-Database%20Management-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/University%20of%20Maryland-Entrepreneurship-success?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 👀 Visitor Count
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yousefelmongy-afk&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+
 
 
 
