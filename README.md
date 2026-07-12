@@ -98,7 +98,7 @@ To become a world-class AI Engineer developing intelligent systems that create r
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
- 👨‍💻 About Me
+ ##👨‍💻 About Me
 
 
 ```python
@@ -147,7 +147,7 @@ class YousefElmongy:
         return "Building AI-powered solutions 🚀"
 ```
 
-🚀  Summary
+##🚀  Summary
 
 - 🎓 Bachelor's Degree in Computer Science.
 - 🤖 AI Engineer passionate about building intelligent systems.
@@ -157,11 +157,10 @@ class YousefElmongy:
 - 🔬 Continuously learning and exploring modern AI technologies.
 - 💡 Passionate about solving real-world problems using Artificial Intelligence.
 
-```
 
----
 
- 🚀 Areas of Expertise
+
+ ##🚀 Areas of Expertise
 
 ✔ Artificial Intelligence
 
