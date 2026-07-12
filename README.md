@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;AI+Engineer;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+%7C+NLP;Python+Developer;Always+Learning+New+Things+🚀"/>
 
 <p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
 </p>
 
 </div>
