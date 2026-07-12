@@ -14,7 +14,7 @@
 
 ### 🤖 AI Engineer | Data Scientist | Machine Learning Engineer
 
-🎓 Computer Science Student passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science.
+🎓 Computer Science Graduated passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science.
 
 💡 I enjoy building intelligent systems that solve real-world problems using AI technologies.
 
@@ -70,6 +70,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 ```python
 class YousefElmongy:
 
@@ -79,7 +81,16 @@ class YousefElmongy:
 
         self.role = "AI Engineer"
 
-        self.country = "Egypt 🇪🇬"
+        self.education = "B.Sc. in Computer Science"
+
+        self.location = "Egypt 🇪🇬"
+
+        self.specialization = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Data Science"
+        ]
 
         self.languages = [
             "Python",
@@ -88,38 +99,69 @@ class YousefElmongy:
             "SQL"
         ]
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Natural Language Processing",
-            "Data Science"
+        self.frameworks = [
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-Learn",
+            "OpenCV"
         ]
 
-        self.currently_learning = [
-            "LLMs",
-            "Generative AI",
-            "Advanced Deep Learning"
+        self.tools = [
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Git",
+            "GitHub"
         ]
 
-        self.email = "yousefelmongy@gmail.com"
+    def work(self):
+        return "Building AI-powered solutions 🚀"
+```
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub Profile ❤️")
+### 🚀 Professional Summary
+
+- 🎓 Bachelor's Degree in Computer Science.
+- 🤖 AI Engineer passionate about building intelligent systems.
+- 📊 Data Scientist with hands-on experience in machine learning projects.
+- 🧠 Interested in Deep Learning, Computer Vision and NLP.
+- 📈 Experienced in data preprocessing, feature engineering and model evaluation.
+- 🔬 Continuously learning and exploring modern AI technologies.
+- 💡 Passionate about solving real-world problems using Artificial Intelligence.
+
 ```
 
 ---
 
-## 🚀 Quick Facts
+## 🚀 Areas of Expertise
 
-- 🤖 AI Engineer & Data Scientist
-- 💻 Python Developer
-- 🧠 Machine Learning Enthusiast
-- 📊 Data Analysis & Visualization
-- 🔥 Passionate about solving real-world problems with AI
-- 📚 Always learning new technologies
-- 🌍 Based in Egypt
+✔ Artificial Intelligence
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Data Science
+
+✔ Natural Language Processing
+
+✔ Computer Vision
+
+✔ Data Analysis
+
+✔ Data Visualization
+
+✔ Feature Engineering
+
+✔ Data Preprocessing
+
+✔ Model Training & Evaluation
+
+✔ SQL Databases
+
+✔ Python Development
+
+✔ Problem Solving
+
 
 ---
 
