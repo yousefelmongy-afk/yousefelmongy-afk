@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;AI+Engineer;Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Computer+Vision+%7C+NLP;Python+Developer;Always+Learning+New+Things+🚀"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV4eWQ0ZjQ2N2l0bjJxM2Z4eTIwODdud2d1ZmVvMWg4cmV2YmVtMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="70%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
+</p>
 
 </div>
 
