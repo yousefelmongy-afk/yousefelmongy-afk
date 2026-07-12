@@ -65,7 +65,7 @@
 &nbsp;&nbsp;
 
 <a href="https://www.tiktok.com/@_mongesto_?_r=1&_t=ZS-97yeAuGdoCF">
-  <img src="https://img.icons8.com/color/48/tiktok--v1.png" height="70"/>
+  <img src="https://img.icons8.com/color/48/tiktok--v1.png" height="80"/>
 </a>
 
 &nbsp;&nbsp;
