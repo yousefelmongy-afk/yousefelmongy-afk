@@ -117,7 +117,7 @@ class YousefElmongy:
         return "Building AI-powered solutions 🚀"
 ```
 
-🚀 Professional Summary
+🚀  Summary
 
 - 🎓 Bachelor's Degree in Computer Science.
 - 🤖 AI Engineer passionate about building intelligent systems.
