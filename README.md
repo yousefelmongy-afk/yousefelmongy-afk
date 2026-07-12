@@ -68,9 +68,8 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ```python
 class YousefElmongy:
@@ -118,7 +117,7 @@ class YousefElmongy:
         return "Building AI-powered solutions 🚀"
 ```
 
-### 🚀 Professional Summary
+🚀 Professional Summary
 
 - 🎓 Bachelor's Degree in Computer Science.
 - 🤖 AI Engineer passionate about building intelligent systems.
@@ -132,7 +131,7 @@ class YousefElmongy:
 
 ---
 
-## 🚀 Areas of Expertise
+ 🚀 Areas of Expertise
 
 ✔ Artificial Intelligence
 
@@ -163,12 +162,4 @@ class YousefElmongy:
 ✔ Problem Solving
 
 
----
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
-
-</div>
-
----
