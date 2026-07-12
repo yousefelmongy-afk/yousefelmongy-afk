@@ -12,23 +12,43 @@
 
 ---
 
-# 👋 Hi, I'm **Yousef Elmongy**
+# 👋 Hi, I'm Yousef Elmongy
 
 ### 🤖 AI Engineer | Data Scientist | Machine Learning Engineer
 
-🎓 Computer Science Graduated passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science.
+🎓 Bachelor's Degree in Computer Science.
 
-💡 I enjoy building intelligent systems that solve real-world problems using AI technologies.
+🚀 Passionate about building intelligent AI-powered systems that solve real-world problems.
 
-🌱 Currently improving my skills in:
+🧠 Specialized in:
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Data Science
+- Data Analysis
+
+💻 Experienced working with:
+
+- Python
+- TensorFlow
+- PyTorch
+- Scikit-Learn
+- OpenCV
+- SQL
+- Git & GitHub
+
+🌱 Currently learning:
 
 - Large Language Models (LLMs)
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Data Engineering
+- Generative AI
+- MLOps
+- AI Agents
 
-🎯 My goal is to become a world-class AI Engineer and contribute to impactful AI solutions.
+🎯 Career Goal:
+
+To become a world-class AI Engineer developing intelligent systems that create real impact.
 
 ---
 
